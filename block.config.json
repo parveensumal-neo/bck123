@@ -1,0 +1,8 @@
+{
+  "name": "bck123",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/parveensumal-neo/bck123",
+    "ssh": "git@github.com:parveensumal-neo/bck123.git"
+  }
+}
